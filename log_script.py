@@ -1,7 +1,5 @@
 # --encoding: utf-8--
 """
-Author: AD OEM team
-This script is to process Ottoview logging file,
 For more detail, please contact Wentao
 """
 import tkinter as tk
